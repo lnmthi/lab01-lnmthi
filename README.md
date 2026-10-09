@@ -46,3 +46,10 @@ IT Helpdesk: room E.005, open Mon-Fri 08:00-17:00.
 - pyproject.toml - Project configuration.
 - README.md - Project documentation.
 - .gitignore - Files excluded from Git.
+
+## Example question
+
+- Ask the assistant a question from the terminal:
+
+```powershell
+python -m assistant "where is the IT helpdesk?"
